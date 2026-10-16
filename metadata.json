@@ -1,0 +1,6 @@
+{
+  "name": "Studio Photo Selection - Nền tảng Chọn Ảnh & Lọc File RAW Phong Cách Shotpik",
+  "description": "Hệ thống quản lý album và chọn ảnh cưới, sự kiện chuyên nghiệp cho Studio. Hỗ trợ khách hàng thả tim, chọn ảnh phóng lớn, ảnh khung để bàn, ghi chú và tự động lọc sao chép file RAW (ARW/CR2) cho hậu kỳ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
